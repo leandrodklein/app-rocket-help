@@ -45,3 +45,5 @@
 
 ### Depois das configurações rodar o projeto
 - expo run:android
+
+![APP Expense Tracker](https://github.com/leandrodklein/app-rocket-help/blob/master/src/assets/img/app%20rocket%20help.jpg)
